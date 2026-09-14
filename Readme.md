@@ -24,11 +24,11 @@ Users should be able to:
 ![Order Summary Component Screenshot](./images/order-summary-component.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:[Live site url for the solution](https://exquisite-tiramisu-ab54dc.netlify.app/)
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/zaidjhon-dev)
+- Website - [My Portfolio](https://zaidjhon.vercel.app/))
+- Frontend Mentor - [@zaidjhon-dev](https://www.frontendmentor.io/profile/zaidjhon-dev)
 
