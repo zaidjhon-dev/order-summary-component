@@ -29,6 +29,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [My Portfolio](https://zaidjhon.vercel.app/))
+- Website - [My Portfolio](https://zaidjhon.vercel.app/)
 - Frontend Mentor - [@zaidjhon-dev](https://www.frontendmentor.io/profile/zaidjhon-dev)
 
